@@ -1,0 +1,3 @@
+music Player is added
+Album
+List and playlist of the new music that has been added
